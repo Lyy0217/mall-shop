@@ -1,6 +1,7 @@
 com\imooc\mapper\ItemsCommentsMapper.class
 com\imooc\mapper\ItemsParamMapper.class
 com\imooc\mapper\OrderItemsMapper.class
+com\imooc\mapper\StuMapper.class
 com\imooc\mapper\ItemsSpecMapper.class
 com\imooc\mapper\UsersMapper.class
 com\imooc\mapper\ItemsImgMapper.class
