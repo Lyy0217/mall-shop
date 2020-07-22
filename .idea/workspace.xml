@@ -11,21 +11,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/mall-dev-api.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/classes/META-INF/mall-dev-api.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/classes/com/imooc/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/classes/com/imooc/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/mall-dev-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/mall-dev-api-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-common/mall-dev-common.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-mapper/mall-dev-mapper.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-mapper/target/mall-dev-mapper-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-mapper/target/mall-dev-mapper-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/mall-dev-pojo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/mall-dev-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/target/mall-dev-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-service/mall-dev-service.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-service/target/mall-dev-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/target/mall-dev-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/StuFooController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/StuFooController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/StuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/StuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/impl/StuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/impl/StuServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +48,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mall-dev-mapper/src/main/resources/mapper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -114,6 +103,7 @@
       <workItem from="1595133512765" duration="112000" />
       <workItem from="1595133691407" duration="3651000" />
       <workItem from="1595169180173" duration="3783000" />
+      <workItem from="1595176748320" duration="3947000" />
     </task>
     <servers />
   </component>
@@ -149,10 +139,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="378" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595176001740" />
-    <state x="249" y="7" width="974" height="715" key="SettingsEditor" timestamp="1595175997669">
+    <state x="249" y="7" width="974" height="715" key="SettingsEditor" timestamp="1595434191490">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="249" y="7" width="974" height="715" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595175997669" />
+    <state x="249" y="7" width="974" height="715" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595434191490" />
     <state x="454" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1595133691784">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

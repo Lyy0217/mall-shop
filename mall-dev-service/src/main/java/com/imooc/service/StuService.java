@@ -7,7 +7,7 @@ public interface StuService {
 
     public void saveStu();
 
-    public void updateStu(int id);
+    public void updateStu(Long id);
 
-    public void deleteStu(int id);
+    public void deleteStu(Long id);
 }
