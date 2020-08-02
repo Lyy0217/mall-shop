@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff7648e8-93bf-43cf-bf05-4e86d477e942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/impl/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +93,7 @@
       <workItem from="1595133691407" duration="3651000" />
       <workItem from="1595169180173" duration="3783000" />
       <workItem from="1595176748320" duration="5844000" />
-      <workItem from="1596357395068" duration="2543000" />
+      <workItem from="1596357395068" duration="3096000" />
     </task>
     <servers />
   </component>
