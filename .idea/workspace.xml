@@ -93,7 +93,7 @@
       <workItem from="1595133691407" duration="3651000" />
       <workItem from="1595169180173" duration="3783000" />
       <workItem from="1595176748320" duration="5844000" />
-      <workItem from="1596357395068" duration="3096000" />
+      <workItem from="1596357395068" duration="6334000" />
     </task>
     <servers />
   </component>
@@ -122,10 +122,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="618" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1595133576764" />
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1595175980424">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1596363650515">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1595175980424" />
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596363650515" />
     <state width="1493" height="378" key="GridCell.Tab.0.bottom" timestamp="1595176001740">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -142,6 +142,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="378" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595176001740" />
+    <state x="408" y="130" key="NewModule_or_Project.wizard" timestamp="1596363694243">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="408" y="130" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1596363694243" />
     <state x="249" y="7" width="974" height="715" key="SettingsEditor" timestamp="1595434191490">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -150,5 +154,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="454" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1595133691784" />
+    <state x="178" y="42" key="new project wizard" timestamp="1596363616715">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="42" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1596363616715" />
   </component>
 </project>
