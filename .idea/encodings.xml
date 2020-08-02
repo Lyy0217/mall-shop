@@ -4,15 +4,14 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mall-dev-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mall-dev-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-dev-api/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mall-dev-common" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/mall-dev-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mall-dev-mapper" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mall-dev-mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-dev-mapper/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mall-dev-pojo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mall-dev-pojo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mall-dev-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mall-dev-service/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
 </project>
