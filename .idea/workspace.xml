@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff7648e8-93bf-43cf-bf05-4e86d477e942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/StuFooController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-mapper/src/main/java/com/imooc/mapper/StuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-mapper/src/main/resources/mapper/StuMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-pojo/src/main/java/com/imooc/pojo/Stu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/StuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/impl/StuServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/impl/UserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/StuFooController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/StuFooController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/StuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/StuService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/impl/StuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/impl/StuServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -59,6 +49,7 @@
       <recent name="com.imooc" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.service.impl" />
       <recent name="com.imooc.controller" />
       <recent name="com.imooc.mapper" />
       <recent name="com.imooc.pojo" />
@@ -103,18 +94,32 @@
       <workItem from="1595133512765" duration="112000" />
       <workItem from="1595133691407" duration="3651000" />
       <workItem from="1595169180173" duration="3783000" />
-      <workItem from="1595176748320" duration="3947000" />
+      <workItem from="1595176748320" duration="5844000" />
+      <workItem from="1596357395068" duration="2543000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1595171088044">
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1596359235558">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1595171088044" />
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1596359235558" />
     <state x="618" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1595133576764">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
