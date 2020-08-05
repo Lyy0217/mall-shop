@@ -33,11 +33,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7648e8-93bf-43cf-bf05-4e86d477e942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/PassPortController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/com/imooc/utils/IMOOCJSONResult.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-api/src/test/java/TransTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/src/test/java/TransTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/classes/com/imooc/controller/StuFooController.class" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/classes/com/imooc/controller/StuFooController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/mall-dev-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/mall-dev-api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-mapper/target/mall-dev-mapper-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-mapper/target/mall-dev-mapper-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/mall-dev-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/target/mall-dev-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-service/target/classes/com/imooc/service/StuService.class" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/target/classes/com/imooc/service/StuService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-service/target/classes/com/imooc/service/impl/StuServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/target/classes/com/imooc/service/impl/StuServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-service/target/mall-dev-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/target/mall-dev-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +76,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml.bak" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx8000m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1etGW69OaitblMIQSXXW5abdJbI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -72,32 +102,32 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mall-dev-api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mall-dev-common/src/main/java/com/imooc/utils" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Users\lyy\IdeaProjects\mall-dev\mall-dev-common\src" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.imooc" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.imooc.service.impl" />
-      <recent name="com.imooc.controller" />
-      <recent name="com.imooc.mapper" />
-      <recent name="com.imooc.pojo" />
-      <recent name="com.imooc.my.mapper" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mall-dev-common/src/main/java/com/imooc/utils" />
       <recent name="E:\Users\lyy\IdeaProjects\mall-dev\mall-dev-api" />
       <recent name="E:\Users\lyy\IdeaProjects\mall-dev\mall-dev-common" />
       <recent name="$PROJECT_DIR$" />
       <recent name="E:\Users\lyy\IdeaProjects\mall-dev\mall-dev-mapper\src\main\resources\mapper" />
-      <recent name="E:\Users\lyy\IdeaProjects\mall-dev\mall-dev-pojo\src\main\java\com\imooc\pojo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.controller" />
+      <recent name="com.imooc.service.impl" />
+      <recent name="com.imooc.mapper" />
+      <recent name="com.imooc.pojo" />
+      <recent name="com.imooc.my.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Users\lyy\IdeaProjects\mall-dev\mall-dev-common\src" />
     </key>
   </component>
   <component name="RunManager">
@@ -135,7 +165,7 @@
       <workItem from="1595169180173" duration="3783000" />
       <workItem from="1595176748320" duration="5844000" />
       <workItem from="1596357395068" duration="3096000" />
-      <workItem from="1596363118203" duration="1423000" />
+      <workItem from="1596363118203" duration="8076000" />
     </task>
     <servers />
   </component>
@@ -147,13 +177,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1596359235558">
@@ -168,30 +197,40 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596363650515" />
-    <state width="1493" height="378" key="GridCell.Tab.0.bottom" timestamp="1595176001740">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1750" height="406" key="GridCell.Tab.0.bottom" timestamp="1596645367178">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1493" height="378" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595176001740" />
-    <state width="1493" height="378" key="GridCell.Tab.0.center" timestamp="1595176001740">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1750" height="426" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1596366888674" />
+    <state width="1750" height="406" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1596645367178" />
+    <state width="1750" height="406" key="GridCell.Tab.0.center" timestamp="1596645367177">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1493" height="378" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595176001740" />
-    <state width="1493" height="378" key="GridCell.Tab.0.left" timestamp="1595176001740">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1750" height="426" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1596366888666" />
+    <state width="1750" height="406" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1596645367177" />
+    <state width="1750" height="406" key="GridCell.Tab.0.left" timestamp="1596645367176">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1493" height="378" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595176001740" />
-    <state width="1493" height="378" key="GridCell.Tab.0.right" timestamp="1595176001740">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1750" height="426" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1596366888665" />
+    <state width="1750" height="406" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1596645367176" />
+    <state width="1750" height="406" key="GridCell.Tab.0.right" timestamp="1596645367178">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1493" height="378" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595176001740" />
+    <state width="1750" height="426" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1596366888666" />
+    <state width="1750" height="406" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1596645367178" />
     <state x="408" y="130" key="NewModule_or_Project.wizard" timestamp="1596363694243">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="408" y="130" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1596363694243" />
-    <state x="249" y="7" width="974" height="715" key="SettingsEditor" timestamp="1595434191490">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="291" y="46" width="974" height="722" key="SettingsEditor" timestamp="1596643353648">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="249" y="7" width="974" height="715" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595434191490" />
+    <state x="291" y="23" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1596366762508" />
+    <state x="291" y="46" width="974" height="722" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1596643353648" />
     <state x="454" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1595133691784">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
