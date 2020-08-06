@@ -33,47 +33,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7648e8-93bf-43cf-bf05-4e86d477e942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/com/imooc/enums/Sex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/com/imooc/utils/DateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/com/imooc/utils/MD5Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/Code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/DayCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/Id.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/IdWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/InvalidSystemClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/RandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/Sid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/WorkerIdStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/strategy/DayPrefixRandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/strategy/DefaultRandomCodeStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/strategy/DefaultWorkerIdStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/strategy/FileLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/utils/HttpReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/utils/IPv4Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/utils/Ip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/utils/Props.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/utils/Serializes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-pojo/src/main/java/com/imooc/pojo/bo/UserBO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/config/Swagger2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/PassPortController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/PassPortController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/classes/com/imooc/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/classes/com/imooc/Application.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-dev-api/target/classes/com/imooc/controller/PassPortController.class" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/classes/com/imooc/controller/PassPortController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-dev-api/target/mall-dev-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/mall-dev-api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-dev-common/target/mall-dev-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-common/target/mall-dev-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/mall-dev-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/target/mall-dev-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-service/target/classes/com/imooc/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/target/classes/com/imooc/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-service/target/classes/com/imooc/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/target/classes/com/imooc/service/impl/UserServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-dev-service/target/mall-dev-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/target/mall-dev-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +58,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -198,7 +169,7 @@
       <workItem from="1595169180173" duration="3783000" />
       <workItem from="1595176748320" duration="5844000" />
       <workItem from="1596357395068" duration="3096000" />
-      <workItem from="1596363118203" duration="13215000" />
+      <workItem from="1596363118203" duration="14613000" />
     </task>
     <servers />
   </component>
@@ -231,30 +202,30 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596363650515" />
-    <state width="1750" height="406" key="GridCell.Tab.0.bottom" timestamp="1596733608237">
+    <state width="1750" height="406" key="GridCell.Tab.0.bottom" timestamp="1596735764363">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1493" height="378" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595176001740" />
     <state width="1750" height="426" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1596366888674" />
-    <state width="1750" height="406" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1596733608237" />
-    <state width="1750" height="406" key="GridCell.Tab.0.center" timestamp="1596733608235">
+    <state width="1750" height="406" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1596735764363" />
+    <state width="1750" height="406" key="GridCell.Tab.0.center" timestamp="1596735764362">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1493" height="378" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595176001740" />
     <state width="1750" height="426" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1596366888666" />
-    <state width="1750" height="406" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1596733608235" />
-    <state width="1750" height="406" key="GridCell.Tab.0.left" timestamp="1596733608228">
+    <state width="1750" height="406" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1596735764362" />
+    <state width="1750" height="406" key="GridCell.Tab.0.left" timestamp="1596735764362">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1493" height="378" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595176001740" />
     <state width="1750" height="426" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1596366888665" />
-    <state width="1750" height="406" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1596733608228" />
-    <state width="1750" height="406" key="GridCell.Tab.0.right" timestamp="1596733608236">
+    <state width="1750" height="406" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1596735764362" />
+    <state width="1750" height="406" key="GridCell.Tab.0.right" timestamp="1596735764363">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1493" height="378" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595176001740" />
     <state width="1750" height="426" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1596366888666" />
-    <state width="1750" height="406" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1596733608236" />
+    <state width="1750" height="406" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1596735764363" />
     <state x="476" y="188" key="NewModule_or_Project.wizard" timestamp="1596728953647">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
