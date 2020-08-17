@@ -25,7 +25,7 @@ public class PassPortController {
     private UserService userService;
 
     @ApiOperation(value = "用户名是否存在", notes = "用户名是否存在", httpMethod = "GET")
-    @GetMapping("/usernameIsExit")
+    @GetMapping("/usernameIsExist")
     public IMOOCJSONResult usernameIsExit(@RequestParam String username) {
 
         //1. 判断用户名是否为空
