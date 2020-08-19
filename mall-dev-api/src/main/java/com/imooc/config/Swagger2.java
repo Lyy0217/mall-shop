@@ -13,7 +13,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * @author Lyy <liuyangyang03@kuaishou.com>
+ * @author Lyy
  * Created on 2020-08-07
  */
 //让该类能够被容器扫描到
@@ -42,7 +42,7 @@ public class Swagger2 {
                 .title("天天吃货 电商平台接口api")                   // 文档页标题
                 .contact(new Contact("Lyy",
                         "lyy-0217.blog.csdn.net",
-                        "liuyangyang03@kuaishou.com"))     // 联系人信息
+                        "1126137994@qq.com"))     // 联系人信息
                 .description("专为天天吃货提供的api文档")
                 .version("1.0.0")                               // 文档的版本号
                 .termsOfServiceUrl("lyy-0217.blog.csdn.net")    // 网站地址

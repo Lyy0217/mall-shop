@@ -1,7 +1,7 @@
 package com.imooc.enums;
 
 /**
- * @author Lyy <liuyangyang03@kuaishou.com>
+ * @author Lyy
  * Created on 2020-08-07
  */
 public enum Sex {
