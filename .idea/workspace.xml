@@ -33,9 +33,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7648e8-93bf-43cf-bf05-4e86d477e942" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mall-dev-api/src/main/resources/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-common/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-common/src/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/mall-dev-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/mall-dev-api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-common/target/mall-dev-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-common/target/mall-dev-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +91,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -168,7 +171,14 @@
       <workItem from="1597721085778" duration="1268000" />
       <workItem from="1597754836467" duration="20000" />
       <workItem from="1597851657350" duration="1883000" />
-      <workItem from="1598024487418" duration="1812000" />
+      <workItem from="1598024487418" duration="2174000" />
+      <workItem from="1598069276647" duration="583000" />
+      <workItem from="1598073268585" duration="104000" />
+      <workItem from="1598073391717" duration="660000" />
+      <workItem from="1598077969426" duration="1493000" />
+      <workItem from="1598508696053" duration="149000" />
+      <workItem from="1598508961420" duration="35000" />
+      <workItem from="1598861926824" duration="2000000" />
     </task>
     <servers />
   </component>
@@ -235,11 +245,11 @@
     </state>
     <state x="408" y="130" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1596363694243" />
     <state x="476" y="188" key="NewModule_or_Project.wizard/0.23.1792.1097@0.23.1792.1097" timestamp="1596728953647" />
-    <state x="291" y="46" width="974" height="722" key="SettingsEditor" timestamp="1596730638509">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state x="291" y="23" width="974" height="722" key="SettingsEditor" timestamp="1598078082839">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="249" y="7" width="974" height="715" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595434191490" />
-    <state x="291" y="23" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1596366762508" />
+    <state x="291" y="23" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1598078082839" />
     <state x="291" y="46" width="974" height="722" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1596730638509" />
     <state x="454" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1595133691784">
       <screen x="0" y="0" width="1536" height="864" />
