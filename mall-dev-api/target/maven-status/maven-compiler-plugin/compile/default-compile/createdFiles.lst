@@ -1,2 +1,3 @@
+com/imooc/aspect/ServiceLogAspect.class
 com/imooc/config/Swagger2.class
 com/imooc/controller/PassPortController.class
