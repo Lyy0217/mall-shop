@@ -120,6 +120,21 @@ public class PassPortController {
         return IMOOCJSONResult.ok(result);
     }
 
+    @ApiOperation(value = "用户退出登录", notes = "用户退出登录", httpMethod = "POST")
+    @PostMapping("/logout")
+    public IMOOCJSONResult logout(@RequestParam String userId,
+            HttpServletRequest request,
+            HttpServletResponse response) {
+
+        // 清楚用户相关的cookie信息
+        CookieUtils.deleteCookie(request, response, "user");
+
+        // TODO 用户退出登录，需要清空购物车
+        // TODO 分布式会话中需要清楚用户数据
+
+        return IMOOCJSONResult.ok();
+    }
+
     private void setNullProperty(Users users) {
         users.setPassword(null);
         users.setMobile(null);

@@ -17,7 +17,7 @@ public class ServiceLogAspect {
 
     public static final Logger log = LoggerFactory.getLogger(ServiceLogAspect.class);
 
-    /**
+    /*
      * AOP的通知
      * 1、前置通知：在方法调用之前执行
      * 2、后置通知：在方法正常调用之后通知
