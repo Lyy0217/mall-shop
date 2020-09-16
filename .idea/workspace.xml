@@ -33,23 +33,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7648e8-93bf-43cf-bf05-4e86d477e942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/com/imooc/enums/YseOrNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-pojo/src/main/java/com/imooc/pojo/bo/CarouselBO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/CarouselService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/impl/CarouselServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/mall-dev-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/mall-dev-api-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-common/target/mall-dev-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-common/target/mall-dev-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/mall-dev-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/target/mall-dev-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-service/target/mall-dev-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/target/mall-dev-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/impl/CarouselServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/impl/CarouselServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +177,7 @@
       <workItem from="1599493593171" duration="2382000" />
       <workItem from="1599663234938" duration="768000" />
       <workItem from="1599973231557" duration="892000" />
-      <workItem from="1600221719573" duration="4861000" />
+      <workItem from="1600221719573" duration="4903000" />
     </task>
     <servers />
   </component>
@@ -270,10 +254,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="454" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1595133691784" />
-    <state x="596" y="317" width="600" height="518" key="find.popup" timestamp="1598889534047">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="596" y="333" width="600" height="518" key="find.popup" timestamp="1600277160038">
+      <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="596" y="317" width="600" height="518" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1598889534047" />
+    <state x="596" y="333" width="600" height="518" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1600277160038" />
     <state x="178" y="42" key="new project wizard" timestamp="1596363616715">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

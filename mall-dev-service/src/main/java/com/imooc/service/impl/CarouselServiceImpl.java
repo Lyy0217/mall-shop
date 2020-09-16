@@ -14,7 +14,7 @@ import com.imooc.service.CarouselService;
 import tk.mybatis.mapper.entity.Example;
 
 /**
- * @author Lyy <liuyangyang03@kuaishou.com>
+ * @author Lyy
  * Created on 2020-09-16
  */
 @Service
