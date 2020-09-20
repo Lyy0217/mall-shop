@@ -1,2 +1,4 @@
 com/imooc/pojo/bo/CarouselBO.class
+com/imooc/pojo/vo/SubCategoryVO.class
+com/imooc/pojo/vo/CategoryVO.class
 com/imooc/pojo/bo/UserBO.class

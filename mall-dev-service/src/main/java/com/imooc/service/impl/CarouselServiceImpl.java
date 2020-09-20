@@ -5,6 +5,8 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Propagation;
+import org.springframework.transaction.annotation.Transactional;
 
 import com.imooc.mapper.CarouselMapper;
 import com.imooc.pojo.Carousel;
@@ -23,6 +25,7 @@ public class CarouselServiceImpl implements CarouselService {
     @Autowired
     private CarouselMapper carouselMapper;
 
+    @Transactional(propagation = Propagation.SUPPORTS)
     @Override
     public List<Carousel> queryAll(Integer isShow) {
 
@@ -34,6 +37,7 @@ public class CarouselServiceImpl implements CarouselService {
         return carouselMapper.selectByExample(example);
     }
 
+    @Transactional(propagation = Propagation.REQUIRED)
     @Override
     public Carousel saveCarousel(CarouselBO carouselBO) {
         Carousel carousel = new Carousel();
