@@ -4,5 +4,6 @@
 /Users/liuyangyang/Documents/learn/imooc/mall-shop/mall-dev-api/src/main/java/com/imooc/Application.java
 /Users/liuyangyang/Documents/learn/imooc/mall-shop/mall-dev-api/src/main/java/com/imooc/controller/HelloController.java
 /Users/liuyangyang/Documents/learn/imooc/mall-shop/mall-dev-api/src/main/java/com/imooc/config/CorsConfig.java
+/Users/liuyangyang/Documents/learn/imooc/mall-shop/mall-dev-api/src/main/java/com/imooc/controller/ItemsController.java
 /Users/liuyangyang/Documents/learn/imooc/mall-shop/mall-dev-api/src/main/java/com/imooc/aspect/ServiceLogAspect.java
 /Users/liuyangyang/Documents/learn/imooc/mall-shop/mall-dev-api/src/main/java/com/imooc/controller/IndexController.java

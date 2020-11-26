@@ -49,14 +49,14 @@ public class ItemsController {
         }
         Items item = itemService.queryItemById(itemId);
         List<ItemsImg> itemsImgList = itemService.queryItemImgList(itemId);
-        List<ItemsSpec> itemsSpecList = itemService.queryItemSpecList(itemId);
-        ItemsParam itemParam = itemService.queryItemParam(itemId);
+        List<ItemsSpec> itemSpecList = itemService.queryItemSpecList(itemId);
+        ItemsParam itemParams = itemService.queryItemParam(itemId);
 
         ItemInfoVO itemInfoVO = new ItemInfoVO();
         itemInfoVO.setItem(item);
         itemInfoVO.setItemImgList(itemsImgList);
-        itemInfoVO.setItemSpecList(itemsSpecList);
-        itemInfoVO.setItemParam(itemParam);
+        itemInfoVO.setItemSpecList(itemSpecList);
+        itemInfoVO.setItemParams(itemParams);
 
         return IMOOCJSONResult.ok(itemInfoVO);
     }
