@@ -8,6 +8,8 @@ import com.imooc.pojo.ItemsImg;
 import com.imooc.pojo.ItemsParam;
 import com.imooc.pojo.ItemsSpec;
 import com.imooc.pojo.bo.CarouselBO;
+import com.imooc.pojo.vo.CommentLevelCountsVO;
+import com.imooc.pojo.vo.ItemCommentVO;
 
 /**
  * @author Lyy
@@ -34,4 +36,14 @@ public interface ItemService {
      * 根据商品id查询商品参数
      */
     ItemsParam queryItemParam(String itemId);
+
+    /**
+     * 根据商品id查询评价数量
+     */
+    public CommentLevelCountsVO queryCommentCounts(String itemId);
+
+    /**
+     * 查询商品评价内容
+     */
+    public List<ItemCommentVO> queryPagedComments(String itemId, Integer level);
 }

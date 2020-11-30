@@ -1,6 +1,7 @@
 com/imooc/pojo/vo/SimpleItemVO.class
 com/imooc/pojo/bo/CarouselBO.class
 com/imooc/pojo/vo/NewItemsVO.class
+com/imooc/pojo/vo/CommentLevelCountsVO.class
 com/imooc/pojo/vo/SubCategoryVO.class
 com/imooc/pojo/vo/CategoryVO.class
 com/imooc/pojo/bo/UserBO.class

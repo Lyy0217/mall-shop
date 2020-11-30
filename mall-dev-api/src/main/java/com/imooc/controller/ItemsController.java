@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.imooc.enums.YseOrNo;
@@ -20,6 +21,7 @@ import com.imooc.pojo.ItemsParam;
 import com.imooc.pojo.ItemsSpec;
 import com.imooc.pojo.bo.CarouselBO;
 import com.imooc.pojo.vo.CategoryVO;
+import com.imooc.pojo.vo.CommentLevelCountsVO;
 import com.imooc.pojo.vo.ItemInfoVO;
 import com.imooc.pojo.vo.NewItemsVO;
 import com.imooc.service.CarouselService;
@@ -59,6 +61,19 @@ public class ItemsController {
         itemInfoVO.setItemParams(itemParams);
 
         return IMOOCJSONResult.ok(itemInfoVO);
+    }
+
+    @ApiOperation(value = "查询商品评价等级数量", notes = "查询商品评价等级数量", httpMethod = "GET")
+    @GetMapping("/commentLevel")
+    public IMOOCJSONResult commentLevel(
+            @ApiParam(name = "itemId", value = "商品id", required = true)
+            @RequestParam String itemId) {
+        if (StringUtils.isBlank(itemId)) {
+            return IMOOCJSONResult.errorMsg(null);
+        }
+        CommentLevelCountsVO countsVO = itemService.queryCommentCounts(itemId);
+
+        return IMOOCJSONResult.ok(countsVO);
     }
 
 }

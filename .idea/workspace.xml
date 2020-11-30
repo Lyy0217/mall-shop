@@ -33,11 +33,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7648e8-93bf-43cf-bf05-4e86d477e942" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mall-dev-common/src/main/java/com/imooc/enums/CommentLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-dev-mapper/src/main/java/com/imooc/mapper/ItemsMapperCustom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-dev-mapper/src/main/resources/mapper/ItemsMapperCustom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-dev-pojo/src/main/java/com/imooc/pojo/vo/CommentLevelCountsVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-dev-pojo/src/main/java/com/imooc/pojo/vo/ItemCommentVO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/ItemsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/ItemsController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-dev-api/target/mall-dev-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/mall-dev-api-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/src/main/java/com/imooc/pojo/vo/ItemInfoVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/src/main/java/com/imooc/pojo/vo/ItemInfoVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-common/target/mall-dev-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-common/target/mall-dev-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/mall-dev-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/target/mall-dev-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/ItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/ItemService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/impl/ItemServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/src/main/java/com/imooc/service/impl/ItemServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-service/target/mall-dev-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/target/mall-dev-service-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,8 +103,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Users\lyy\IdeaProjects\mall-dev\mall-dev-common\src" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.imooc" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.pojo.vo" />
+      <recent name="com.imooc.mapper" />
+      <recent name="com.imooc.enums" />
+      <recent name="com.imooc.controller" />
+      <recent name="com.imooc.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/mall-dev-mapper/src/main/resources/mapper" />
@@ -102,16 +122,6 @@
       <recent name="$PROJECT_DIR$/mall-dev-common/src/main/java/org" />
       <recent name="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker" />
       <recent name="$PROJECT_DIR$/mall-dev-common/src/main/java/org/n3r/idworker/utils" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.imooc.controller" />
-      <recent name="com.imooc.service" />
-      <recent name="com.imooc.pojo.vo" />
-      <recent name="com.imooc.mapper" />
-      <recent name="com.imooc.service.impl" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Users\lyy\IdeaProjects\mall-dev\mall-dev-common\src" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Application">
@@ -196,7 +206,8 @@
       <workItem from="1605753017806" duration="514000" />
       <workItem from="1606031783414" duration="1668000" />
       <workItem from="1606110134740" duration="2134000" />
-      <workItem from="1606409975675" duration="1395000" />
+      <workItem from="1606409975675" duration="1807000" />
+      <workItem from="1606751885947" duration="3071000" />
     </task>
     <servers />
   </component>
@@ -216,43 +227,43 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="670" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1602608782365">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state x="670" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1606755781090">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="670" y="203" key="#com.intellij.ide.util.MemberChooser/-415.-1129.2048.1129/0.23.1792.1097@0.23.1792.1097" timestamp="1600875306485" />
-    <state x="670" y="184" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1597852196481" />
+    <state x="670" y="184" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1606755781090" />
     <state x="670" y="203" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1602608782365" />
-    <state width="1750" height="212" key="GridCell.Tab.0.bottom" timestamp="1606411378209">
+    <state width="1750" height="296" key="GridCell.Tab.0.bottom" timestamp="1606754677159">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1750" height="361" key="GridCell.Tab.0.bottom/-415.-1129.2048.1129/0.23.1792.1097@0.23.1792.1097" timestamp="1601188567843" />
     <state width="1750" height="379" key="GridCell.Tab.0.bottom/-415.-1152.2048.1152/0.0.1792.1120@0.0.1792.1120" timestamp="1602576847011" />
     <state width="1750" height="459" key="GridCell.Tab.0.bottom/-447.-1152.2048.1152/0.0.1792.1120@0.0.1792.1120" timestamp="1599663402103" />
-    <state width="1750" height="212" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1606411378209" />
+    <state width="1750" height="296" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1606754677159" />
     <state width="1750" height="360" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1602609482068" />
-    <state width="1750" height="212" key="GridCell.Tab.0.center" timestamp="1606411378206">
+    <state width="1750" height="296" key="GridCell.Tab.0.center" timestamp="1606754677158">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1750" height="361" key="GridCell.Tab.0.center/-415.-1129.2048.1129/0.23.1792.1097@0.23.1792.1097" timestamp="1601188567841" />
     <state width="1750" height="379" key="GridCell.Tab.0.center/-415.-1152.2048.1152/0.0.1792.1120@0.0.1792.1120" timestamp="1602576847008" />
     <state width="1750" height="459" key="GridCell.Tab.0.center/-447.-1152.2048.1152/0.0.1792.1120@0.0.1792.1120" timestamp="1599663402101" />
-    <state width="1750" height="212" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1606411378206" />
+    <state width="1750" height="296" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1606754677158" />
     <state width="1750" height="360" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1602609482066" />
-    <state width="1750" height="212" key="GridCell.Tab.0.left" timestamp="1606411378205">
+    <state width="1750" height="296" key="GridCell.Tab.0.left" timestamp="1606754677156">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1750" height="361" key="GridCell.Tab.0.left/-415.-1129.2048.1129/0.23.1792.1097@0.23.1792.1097" timestamp="1601188567840" />
     <state width="1750" height="379" key="GridCell.Tab.0.left/-415.-1152.2048.1152/0.0.1792.1120@0.0.1792.1120" timestamp="1602576847006" />
     <state width="1750" height="459" key="GridCell.Tab.0.left/-447.-1152.2048.1152/0.0.1792.1120@0.0.1792.1120" timestamp="1599663402100" />
-    <state width="1750" height="212" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1606411378205" />
+    <state width="1750" height="296" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1606754677156" />
     <state width="1750" height="360" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1602609482066" />
-    <state width="1750" height="212" key="GridCell.Tab.0.right" timestamp="1606411378207">
+    <state width="1750" height="296" key="GridCell.Tab.0.right" timestamp="1606754677158">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1750" height="361" key="GridCell.Tab.0.right/-415.-1129.2048.1129/0.23.1792.1097@0.23.1792.1097" timestamp="1601188567842" />
     <state width="1750" height="379" key="GridCell.Tab.0.right/-415.-1152.2048.1152/0.0.1792.1120@0.0.1792.1120" timestamp="1602576847009" />
     <state width="1750" height="459" key="GridCell.Tab.0.right/-447.-1152.2048.1152/0.0.1792.1120@0.0.1792.1120" timestamp="1599663402102" />
-    <state width="1750" height="212" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1606411378207" />
+    <state width="1750" height="296" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1606754677158" />
     <state width="1750" height="360" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1602609482067" />
     <state width="1750" height="358" key="GridCell.Tab.1.bottom" timestamp="1600769794377">
       <screen x="0" y="23" width="1792" height="1097" />
@@ -277,14 +288,13 @@
     <state x="291" y="46" width="974" height="722" key="SettingsEditor" timestamp="1600622464198">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="291" y="23" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1598078082839" />
     <state x="291" y="46" width="974" height="722" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1600622464198" />
-    <state x="596" y="316" width="600" height="529" key="find.popup" timestamp="1603679152026">
+    <state x="596" y="317" width="600" height="518" key="find.popup" timestamp="1606756012223">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="596" y="333" width="600" height="518" key="find.popup/-415.-1129.2048.1129/0.23.1792.1097@0.23.1792.1097" timestamp="1600791150146" />
     <state x="596" y="316" width="600" height="529" key="find.popup/-415.-1152.2048.1152/0.0.1792.1120@0.0.1792.1120" timestamp="1603679152026" />
-    <state x="596" y="317" width="600" height="518" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1598889534047" />
+    <state x="596" y="317" width="600" height="518" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1606756012223" />
     <state x="596" y="333" width="600" height="518" key="find.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1600707779795" />
   </component>
 </project>
