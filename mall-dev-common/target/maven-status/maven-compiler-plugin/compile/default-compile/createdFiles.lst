@@ -3,6 +3,7 @@ com/imooc/utils/JsonUtils.class
 org/n3r/idworker/strategy/DefaultRandomCodeStrategy.class
 org/n3r/idworker/strategy/DefaultWorkerIdStrategy$2.class
 org/n3r/idworker/utils/Ip.class
+com/imooc/utils/DesensitizationUtil.class
 org/n3r/idworker/RandomCodeStrategy.class
 org/n3r/idworker/utils/Serializes.class
 com/imooc/enums/CommentLevel.class
@@ -25,6 +26,7 @@ com/imooc/utils/IMOOCJSONResult.class
 org/n3r/idworker/utils/Utils.class
 org/n3r/idworker/utils/Props$Silent.class
 org/n3r/idworker/strategy/FileLock.class
+com/imooc/utils/PagedGridResult.class
 org/n3r/idworker/strategy/DayPrefixRandomCodeStrategy.class
 org/n3r/idworker/Id.class
 org/n3r/idworker/Sid.class

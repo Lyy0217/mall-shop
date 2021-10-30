@@ -10,6 +10,7 @@ import com.imooc.pojo.ItemsSpec;
 import com.imooc.pojo.bo.CarouselBO;
 import com.imooc.pojo.vo.CommentLevelCountsVO;
 import com.imooc.pojo.vo.ItemCommentVO;
+import com.imooc.utils.PagedGridResult;
 
 /**
  * @author Lyy
@@ -45,5 +46,5 @@ public interface ItemService {
     /**
      * 查询商品评价内容
      */
-    public List<ItemCommentVO> queryPagedComments(String itemId, Integer level);
+    public PagedGridResult queryPagedComments(String itemId, Integer level, int page, int pageSize);
 }

@@ -14,5 +14,8 @@ import tk.mybatis.spring.annotation.MapperScan;
 public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
+
+        //List<Integer> list = Arrays.asList(1, 2, 3, 4, 5);
+        //System.out.println(list.subList(0, 2));
     }
 }
