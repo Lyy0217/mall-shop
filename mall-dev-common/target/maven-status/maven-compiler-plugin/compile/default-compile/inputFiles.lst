@@ -2,7 +2,7 @@
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/org/n3r/idworker/strategy/DefaultWorkerIdStrategy.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/org/n3r/idworker/utils/Props.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/com/imooc/enums/CommentLevel.java
-/Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/com/imooc/enums/YseOrNo.java
+/Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/com/imooc/enums/OrderStatusEnum.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/com/imooc/utils/DesensitizationUtil.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/org/n3r/idworker/strategy/FileLock.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/org/n3r/idworker/InvalidSystemClock.java
@@ -16,7 +16,9 @@
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/org/n3r/idworker/Test.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/org/n3r/idworker/strategy/DayPrefixRandomCodeStrategy.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/com/imooc/enums/CateType.java
+/Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/com/imooc/utils/MobileEmailUtils.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/org/n3r/idworker/WorkerIdStrategy.java
+/Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/com/imooc/enums/YesOrNo.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/org/n3r/idworker/utils/HttpReq.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/org/n3r/idworker/DayCode.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/org/n3r/idworker/Code.java
@@ -26,5 +28,6 @@
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/org/n3r/idworker/Id.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/com/imooc/enums/Sex.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/com/imooc/utils/IMOOCJSONResult.java
+/Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/com/imooc/enums/PayMethod.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/org/n3r/idworker/utils/Utils.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-common/src/main/java/com/imooc/utils/CookieUtils.java

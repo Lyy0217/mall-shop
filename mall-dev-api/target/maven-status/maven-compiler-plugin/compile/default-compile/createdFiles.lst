@@ -1,7 +1,9 @@
 com/imooc/aspect/ServiceLogAspect.class
+com/imooc/controller/AddressController.class
 com/imooc/controller/ShopcatController.class
 com/imooc/config/Swagger2.class
 com/imooc/controller/center/CenterController.class
+com/imooc/controller/OrdersController.class
 com/imooc/controller/IndexController.class
 com/imooc/controller/ItemsController.class
 com/imooc/controller/BaseController.class
