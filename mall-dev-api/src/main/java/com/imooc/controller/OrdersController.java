@@ -10,10 +10,12 @@ import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.client.RestTemplate;
 
 import com.imooc.enums.OrderStatusEnum;
 import com.imooc.enums.PayMethod;
@@ -37,8 +39,8 @@ public class OrdersController extends BaseController {
     @Autowired
     private OrderService orderService;
 
-    //@Autowired
-    //private RestTemplate restTemplate;
+    @Autowired
+    private RestTemplate restTemplate;
 
     @ApiOperation(value = "用户下单", notes = "用户下单", httpMethod = "POST")
     @PostMapping("/create")
@@ -83,15 +85,15 @@ public class OrdersController extends BaseController {
         HttpEntity<MerchantOrdersVO> entity =
                 new HttpEntity<>(merchantOrdersVO, headers);
 
-        //ResponseEntity<IMOOCJSONResult> responseEntity =
-        //        restTemplate.postForEntity(paymentUrl,
-        //                entity,
-        //                IMOOCJSONResult.class);
-        //IMOOCJSONResult paymentResult = responseEntity.getBody();
-        //if (paymentResult.getStatus() != 200) {
-        //    logger.error("发送错误：{}", paymentResult.getMsg());
-        //    return IMOOCJSONResult.errorMsg("支付中心订单创建失败，请联系管理员！");
-        //}
+        ResponseEntity<IMOOCJSONResult> responseEntity =
+                restTemplate.postForEntity(paymentUrl,
+                        entity,
+                        IMOOCJSONResult.class);
+        IMOOCJSONResult paymentResult = responseEntity.getBody();
+        if (paymentResult.getStatus() != 200) {
+            logger.error("发送错误：{}", paymentResult.getMsg());
+            return IMOOCJSONResult.errorMsg("支付中心订单创建失败，请联系管理员！");
+        }
 
         return IMOOCJSONResult.ok(orderId);
     }
