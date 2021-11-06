@@ -20,11 +20,16 @@ public class BaseController {
     String payReturnUrl = "http://api.z.mukewang.com/foodie-dev-api/orders/notifyMerchantOrderPaid";
 
     // 用户上传头像的位置
-    public static final String IMAGE_USER_FACE_LOCATION = File.separator + "workspaces" +
+    public static final String IMAGE_USER_FACE_LOCATION = File.separator + "Users" +
+            File.separator + "liuyangyang" +
+            File.separator + "Desktop" +
+            File.separator + "doc" +
+            File.separator + "learn" +
+            File.separator + "imooc" +
             File.separator + "images" +
-            File.separator + "foodie" +
             File.separator + "faces";
-    //    public static final String IMAGE_USER_FACE_LOCATION = "/workspaces/images/foodie/faces";
+    //    public static final String IMAGE_USER_FACE_LOCATION =
+    //    "/Users/liuyangyang/Desktop/doc/learn/imooc/images/faces";
 
 
     //@Autowired
