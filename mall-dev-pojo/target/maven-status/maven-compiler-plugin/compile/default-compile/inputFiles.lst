@@ -18,6 +18,7 @@
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/vo/CategoryVO.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/Orders.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/vo/MerchantOrdersVO.java
+/Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/vo/MyCommentVO.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/Carousel.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/bo/SubmitOrderBO.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/OrderItems.java
@@ -26,7 +27,9 @@
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/ItemsParam.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/bo/AddressBO.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/bo/UserBO.java
+/Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/bo/center/OrderItemsCommentBO.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/bo/ShopcartBO.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/UserAddress.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/OrderStatus.java
+/Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/vo/OrderStatusCountsVO.java
 /Users/liuyangyang/Desktop/doc/learn/imooc/mall-shop/mall-dev-pojo/src/main/java/com/imooc/pojo/vo/NewItemsVO.java
