@@ -78,11 +78,15 @@ public class IndexController {
     public IMOOCJSONResult sixNewItems(
             @ApiParam(name = "rootCatId", value = "一级分类id", required = true)
             @PathVariable Integer rootCatId) {
-        if (rootCatId == null) {
-            return IMOOCJSONResult.errorMsg("分类不存在");
+        try {
+            if (rootCatId == null) {
+                return IMOOCJSONResult.errorMsg("分类不存在");
+            }
+            List<NewItemsVO> result = categoryService.getSixNewItemsLazy(rootCatId);
+            return IMOOCJSONResult.ok(result);
+        } catch (Exception e) {
+            return IMOOCJSONResult.errorMsg(e.getMessage());
         }
-        List<NewItemsVO> result = categoryService.getSixNewItemsLazy(rootCatId);
-        return IMOOCJSONResult.ok(result);
     }
 
 }

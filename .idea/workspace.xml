@@ -33,43 +33,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff7648e8-93bf-43cf-bf05-4e86d477e942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/WarStarterApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-api/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-api/src/main/resources/application-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mall-dev-api/src/main/resources/profiles.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/config/CorsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/resource/FileUpload.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/resource/FileUpload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/classes/com/imooc/config/CorsConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/classes/com/imooc/config/CorsConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/mall-dev-api-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/surefire-reports/TEST-TransTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-api/target/surefire-reports/TransTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/BaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/src/main/java/com/imooc/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-api/src/main/resources/file-upload-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-api/src/main/resources/file-upload-prod.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-dev-common/target/mall-dev-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-common/target/mall-dev-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-dev-mapper/src/main/resources/mapper/CategoryMapperCustom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-mapper/src/main/resources/mapper/CategoryMapperCustom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-dev-mapper/target/mall-dev-mapper-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-mapper/target/mall-dev-mapper-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-mapper/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-mapper/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/mall-dev-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/target/mall-dev-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mall-dev-service/target/mall-dev-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/target/mall-dev-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mall-dev-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mall-dev-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,7 +229,7 @@
       <workItem from="1635603455302" duration="15522000" />
       <workItem from="1636015032516" duration="7330000" />
       <workItem from="1636085178168" duration="14168000" />
-      <workItem from="1636798213467" duration="4840000" />
+      <workItem from="1636798213467" duration="9353000" />
     </task>
     <servers />
   </component>
@@ -276,42 +249,43 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="369" key="GridCell.Tab.0.bottom" timestamp="1636817988026">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="348" key="GridCell.Tab.0.bottom" timestamp="1637076822044">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state width="1750" height="370" key="GridCell.Tab.0.bottom/-415.-1127.2048.1127/0.25.1792.1095@0.25.1792.1095" timestamp="1636716311790" />
     <state width="1750" height="466" key="GridCell.Tab.0.bottom/-415.-1152.2048.1152/0.0.1792.1120@0.0.1792.1120" timestamp="1628493498714" />
     <state width="1750" height="369" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1636817988026" />
-    <state width="1750" height="370" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1636213739259" />
-    <state width="1750" height="369" key="GridCell.Tab.0.center" timestamp="1636817988024">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="348" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1637076822044" />
+    <state width="1750" height="348" key="GridCell.Tab.0.center" timestamp="1637076822043">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state width="1750" height="370" key="GridCell.Tab.0.center/-415.-1127.2048.1127/0.25.1792.1095@0.25.1792.1095" timestamp="1636716311788" />
     <state width="1750" height="466" key="GridCell.Tab.0.center/-415.-1152.2048.1152/0.0.1792.1120@0.0.1792.1120" timestamp="1628493498712" />
     <state width="1750" height="369" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1636817988024" />
-    <state width="1750" height="370" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1636213739258" />
-    <state width="1750" height="369" key="GridCell.Tab.0.left" timestamp="1636817988023">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="348" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1637076822043" />
+    <state width="1750" height="348" key="GridCell.Tab.0.left" timestamp="1637076822043">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state width="1750" height="370" key="GridCell.Tab.0.left/-415.-1127.2048.1127/0.25.1792.1095@0.25.1792.1095" timestamp="1636716311780" />
     <state width="1750" height="466" key="GridCell.Tab.0.left/-415.-1152.2048.1152/0.0.1792.1120@0.0.1792.1120" timestamp="1628493498711" />
     <state width="1750" height="369" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1636817988023" />
-    <state width="1750" height="370" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1636213739257" />
-    <state width="1750" height="369" key="GridCell.Tab.0.right" timestamp="1636817988025">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state width="1750" height="348" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1637076822043" />
+    <state width="1750" height="348" key="GridCell.Tab.0.right" timestamp="1637076822044">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state width="1750" height="370" key="GridCell.Tab.0.right/-415.-1127.2048.1127/0.25.1792.1095@0.25.1792.1095" timestamp="1636716311789" />
     <state width="1750" height="466" key="GridCell.Tab.0.right/-415.-1152.2048.1152/0.0.1792.1120@0.0.1792.1120" timestamp="1628493498713" />
     <state width="1750" height="369" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1636817988025" />
-    <state width="1750" height="370" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1636213739258" />
+    <state width="1750" height="348" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1637076822044" />
     <state x="634" y="236" key="extract.method.dialog" timestamp="1635605624295">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="634" y="236" key="extract.method.dialog/0.0.1792.1120@0.0.1792.1120" timestamp="1635605624295" />
-    <state x="597" y="301" width="597" height="518" key="find.popup" timestamp="1636817985884">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="597" y="319" width="597" height="518" key="find.popup" timestamp="1637076748920">
+      <screen x="0" y="25" width="1792" height="1095" />
     </state>
     <state x="597" y="301" width="597" height="518" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1636817985884" />
+    <state x="597" y="319" width="597" height="518" key="find.popup/0.25.1792.1095@0.25.1792.1095" timestamp="1637076748920" />
     <state x="561" y="270" width="670" height="676" key="search.everywhere.popup" timestamp="1636038516935">
       <screen x="0" y="25" width="1792" height="1095" />
     </state>
